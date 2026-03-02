@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+#-e . #to link to setup.py and build the package
